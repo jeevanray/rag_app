@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.venv/
+__pycache__/
+*.pyc
+.env
+data/faiss_index/
+data/uploads/
+data/metadata.json
+.streamlit/
